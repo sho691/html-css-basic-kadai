@@ -327,6 +327,10 @@ h3 {
   list-style: none;
 }
 /*パレット（・）を非表示にす*/
+#cases {
+  margin: 40px 0;
+  width: 100%;
+}
 
 #cases > ul > li {
   width: 33%;
